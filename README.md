@@ -2,7 +2,6 @@ Here is a `README.md` file that provides instructions on how to set up, run, and
 
 ### README.md
 
-```markdown
 # User Management API
 
 This project is a user management API built using Node.js, Express, MongoDB, and Mongoose. It follows the MVC architecture pattern and includes layers for controllers, services, DAOs (Data Access Objects), and DTOs (Data Transfer Objects). It supports basic CRUD operations on users with authentication and validation.
